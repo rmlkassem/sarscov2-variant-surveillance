@@ -1,0 +1,40 @@
+# Raw sequencing data
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Reference files
+data/reference/*.fasta
+data/reference/*.fa
+data/reference/*.fna
+data/reference/*.gff
+data/reference/*.gb
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variant and consensus outputs
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+
+# Results
+results/
+
+# Logs can become large
+logs/*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
