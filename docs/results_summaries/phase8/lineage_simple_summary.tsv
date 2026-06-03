@@ -1,0 +1,7 @@
+seqName	clade	Nextclade_pango	qc.overallStatus	totalSubstitutions	totalDeletions	totalMissing
+ERR11029820	23A	XBB.1.5.5	good	96	9	108
+ERR11029826	22E	EZ.1	good	82	9	137
+ERR11029837	23A	XBB.1.5	good	96	9	216
+ERR11029838	23A	XBB.1.5	good	93	9	174
+ERR11029840	23A	XBB.1.5	good	93	9	184
+ERR11029834	22D	BN.1.5	good	96	9	97

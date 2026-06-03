@@ -1,0 +1,7 @@
+sample	nextclade_clade	nextclade_pango	pangolin_lineage	lineage_agreement	nextclade_qc	total_substitutions	total_deletion_bases	total_missing_bases	pangolin_scorpio_call	pangolin_note
+ERR11029820	23A	XBB.1.5.5	XBB.1.5.5	yes	good	96	9	108	Omicron (XBB.1.5-like)	Usher placements: XBB.1.5.5(1/1)
+ERR11029826	22E	EZ.1	EZ.1	yes	good	82	9	137	Omicron (BA.5-like)	Usher placements: EZ.1(1/1)
+ERR11029834	22D	BN.1.5	BN.1.5	yes	good	96	9	97	Omicron (BA.2-like)	Usher placements: BN.1.5(1/1)
+ERR11029837	23A	XBB.1.5	XBB.1.5	yes	good	96	9	216	Omicron (XBB.1.5-like)	Usher placements: XBB.1.5(1/2) XBB.1.5.2(1/2)
+ERR11029838	23A	XBB.1.5	XBB.1.5	yes	good	93	9	174	Omicron (XBB-like)	Usher placements: XBB.1.5(1/1)
+ERR11029840	23A	XBB.1.5	XBB.1.5	yes	good	93	9	184	Omicron (XBB.1.5-like)	Usher placements: XBB.1.5(1/1)

@@ -1,0 +1,7 @@
+taxon	lineage	conflict	ambiguity_score	scorpio_call	scorpio_support	scorpio_conflict	version	pangolin_version	note
+ERR11029820	XBB.1.5.5	0.0		Omicron (XBB.1.5-like)	0.92	0.02	PUSHER-v1.38	4.4	Usher placements: XBB.1.5.5(1/1)
+ERR11029826	EZ.1	0.0		Omicron (BA.5-like)	0.95	0.02	PUSHER-v1.38	4.4	Usher placements: EZ.1(1/1)
+ERR11029834	BN.1.5	0.0		Omicron (BA.2-like)	0.92	0.03	PUSHER-v1.38	4.4	Usher placements: BN.1.5(1/1)
+ERR11029837	XBB.1.5	0.5		Omicron (XBB.1.5-like)	0.92	0.02	PUSHER-v1.38	4.4	Usher placements: XBB.1.5(1/2) XBB.1.5.2(1/2)
+ERR11029838	XBB.1.5	0.0		Omicron (XBB-like)	0.91	0.02	PUSHER-v1.38	4.4	Usher placements: XBB.1.5(1/1)
+ERR11029840	XBB.1.5	0.0		Omicron (XBB.1.5-like)	0.92	0.02	PUSHER-v1.38	4.4	Usher placements: XBB.1.5(1/1)

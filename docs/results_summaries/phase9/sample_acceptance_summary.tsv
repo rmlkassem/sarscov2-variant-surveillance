@@ -1,0 +1,7 @@
+sample	lineage	qc_status	total_missing_bases	decision
+ERR11029820	XBB.1.5.5	good	108	accepted_for_lineage_interpretation
+ERR11029826	EZ.1	good	137	accepted_for_lineage_interpretation
+ERR11029834	BN.1.5	good	97	accepted_for_lineage_interpretation
+ERR11029837	XBB.1.5	good	216	accepted_for_lineage_interpretation
+ERR11029838	XBB.1.5	good	174	accepted_for_lineage_interpretation
+ERR11029840	XBB.1.5	good	184	accepted_for_lineage_interpretation

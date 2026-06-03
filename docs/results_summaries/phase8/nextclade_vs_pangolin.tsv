@@ -1,0 +1,7 @@
+sample	clade	nextclade_pango	nextclade_qc	totalSubstitutions	totalDeletions	totalMissing	pangolin_lineage	note	ambiguity_score	scorpio_call
+ERR11029820	23A	XBB.1.5.5	good	96	9	108	XBB.1.5.5	Usher placements: XBB.1.5.5(1/1)		Omicron (XBB.1.5-like)
+ERR11029826	22E	EZ.1	good	82	9	137	EZ.1	Usher placements: EZ.1(1/1)		Omicron (BA.5-like)
+ERR11029834	22D	BN.1.5	good	96	9	97	BN.1.5	Usher placements: BN.1.5(1/1)		Omicron (BA.2-like)
+ERR11029837	23A	XBB.1.5	good	96	9	216	XBB.1.5	Usher placements: XBB.1.5(1/2) XBB.1.5.2(1/2)		Omicron (XBB.1.5-like)
+ERR11029838	23A	XBB.1.5	good	93	9	174	XBB.1.5	Usher placements: XBB.1.5(1/1)		Omicron (XBB-like)
+ERR11029840	23A	XBB.1.5	good	93	9	184	XBB.1.5	Usher placements: XBB.1.5(1/1)		Omicron (XBB.1.5-like)

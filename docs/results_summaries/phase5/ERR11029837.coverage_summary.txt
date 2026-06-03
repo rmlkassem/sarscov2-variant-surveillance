@@ -1,0 +1,4 @@
+Genome positions: 29903
+Mean depth: 2156.95
+Covered positions >0x: 29812 (99.6957%)
+Covered positions >=10x: 29687 (99.2777%)

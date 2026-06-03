@@ -1,0 +1,5 @@
+lineage	sample_count	samples	lineage_specific_core_aa_mutation_count	lineage_specific_core_aa_mutations	note
+BN.1.5	1	ERR11029834	15	ORF1a:G298C,ORF1a:L580F,ORF1a:N4060S,ORF1a:P1640S,ORF1a:S1221L,ORF1a:S2103F,ORF1b:G2436D,ORF3a:G251S,ORF9b:A57V,S:F157L,S:G257S,S:I210V,S:K147E,S:K356T,S:W152R	single_sample_lineage_interpret_with_caution
+EZ.1	1	ERR11029826	16	M:D3N,N:E136D,ORF1a:L3829F,ORF1a:Q556K,ORF1b:M1156I,ORF1b:N1191S,ORF1b:Y264H,ORF8:F6S,ORF9b:P10F,S:F486V,S:G339D,S:K444T,S:L452R,S:Q613H,S:S247N,S:Y248S	single_sample_lineage_interpret_with_caution
+XBB.1.5	3	ERR11029837,ERR11029838,ERR11029840	0		lineage_specific_core_pattern_supported_by_multiple_samples
+XBB.1.5.5	1	ERR11029820	4	ORF1a:L1896F,ORF1a:S2246L,ORF1a:S2900L,S:K1181I	single_sample_lineage_interpret_with_caution

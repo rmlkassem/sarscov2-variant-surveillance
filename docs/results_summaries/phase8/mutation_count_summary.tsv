@@ -1,0 +1,7 @@
+sample	nucleotide_substitution_count	nucleotide_deletion_count	nucleotide_insertion_count	aa_substitution_count	aa_deletion_count	aa_insertion_count	missing_region_count
+ERR11029820	96	1	0	68	3	0	5
+ERR11029826	82	1	0	61	3	0	6
+ERR11029837	96	1	0	66	3	0	9
+ERR11029838	93	1	0	65	3	0	7
+ERR11029840	93	1	0	66	3	0	8
+ERR11029834	96	1	0	68	3	0	6
