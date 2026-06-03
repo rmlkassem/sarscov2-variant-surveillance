@@ -19,5 +19,5 @@ This project reproduces the computational logic of SARS-CoV-2 genomic surveillan
 COVseq is a cost-effective workflow for mass-scale SARS-CoV-2 genomic surveillance.
 
 ## Image Summarizing the whole workflow
-<img width="2958" height="2732" alt="mermaid-diagram-2026-06-03-163011" src="https://github.com/user-attachments/assets/c959b079-119c-4eea-9404-215fcac20349" />
+<img width="2958" height="2732" alt="mermaid-diagram-2026-06-03-163011" src="https://github.com/user-attachments/assets/9a1d09dd-2765-4ed5-9623-5712169a8532" />
 
