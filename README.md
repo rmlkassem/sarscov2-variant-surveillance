@@ -17,4 +17,5 @@ This project reproduces the computational logic of SARS-CoV-2 genomic surveillan
 ## Base paper
 
 COVseq is a cost-effective workflow for mass-scale SARS-CoV-2 genomic surveillance.
+<img width="2958" height="2732" alt="mermaid-diagram-2026-06-03-163011" src="https://github.com/user-attachments/assets/c959b079-119c-4eea-9404-215fcac20349" />
 
